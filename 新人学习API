@@ -1,0 +1,6 @@
+sscanf_s字符串转整数
+sprintf_s整数转字符串
+GetDlgIte获取控件句柄
+SetWindowText往控件写入字符串
+CreateThread创建线程
+CloseHandle销毁句柄
